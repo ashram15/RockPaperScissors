@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.choices {
+    width: 800px;
+    margin: 20px auto;
+}
+
+.choices img {
+    width: 100%;
+    height: auto;
+}
+
+#rock {
+    background-color: beige;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+#paper {
+    background-color: beige;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+#scissors {
+    background-color: beige;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+#reset-btn {
+    background-color: beige;
+    border-radius: 15px;
+    font-size: 15px;
+    display: flex;
+    width: 50%;
+    justify-content: center;
+}
+
+.results {
+    display: flex;
+    flex-direction: column;
+}
