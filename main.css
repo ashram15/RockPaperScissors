@@ -13,19 +13,7 @@ body {
     height: auto;
 }
 
-#rock {
-    background-color: beige;
-    border-radius: 15px;
-    font-size: 15px;
-}
-
-#paper {
-    background-color: beige;
-    border-radius: 15px;
-    font-size: 15px;
-}
-
-#scissors {
+.choice-button {
     background-color: beige;
     border-radius: 15px;
     font-size: 15px;
