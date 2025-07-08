@@ -1,7 +1,7 @@
 # Rock, Paper, Scissors 
 ## A simple Rock, Paper, Scissors Game on the Web. 
 
-Access website here: 
+Access website here: https://ashram15.github.io/RockPaperScissors/
 
 Player competes against computer. 
 
